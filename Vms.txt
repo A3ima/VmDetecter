@@ -288,3 +288,8 @@ vboxsvcd
 vboxshellext
 vboxcontrol
 vmware-vsock
+cexecsvc
+acropolis
+winuae
+bhyve
+qubesd
