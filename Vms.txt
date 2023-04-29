@@ -236,8 +236,9 @@ vboxsvcd
 vboxshellext
 vboxcontrol
 vmware-vsock
-cexecsvc
+CExecSvc
 acropolis
 winuae
 bhyve
 qubesd
+sandboxiedcomlaunch
