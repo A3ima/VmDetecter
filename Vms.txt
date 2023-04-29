@@ -1,4 +1,3 @@
-notepad
 vmms
 vmwp
 vmcompute
